@@ -1,0 +1,18 @@
+/* About.css */
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.heading {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    line-height: 1.6;
+    font-size: 16px;
+    color: #666;
+}
